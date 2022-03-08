@@ -2,7 +2,7 @@
 
 Aplikasi kesehatan mental berbasis face recognition
 
-Ketua Kelompok:
+Ketua Kelompok: 
 <br>
 Anggota 1:
 <br>
