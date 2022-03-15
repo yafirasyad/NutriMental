@@ -23,7 +23,14 @@ Mahasiswa:<br>
 [![Proyek-Senior-ERD.jpg](https://i.postimg.cc/3wdbkycw/Proyek-Senior-ERD.jpg)](https://postimg.cc/R3xT809r)
 
 ### f.Low-fidelity Wireframe
-[![untitled.png](https://i.postimg.cc/YS38m1wW/untitled.png)](https://postimg.cc/JysjfH0r)[![untitled-1.png](https://i.postimg.cc/xTJsFJLw/untitled-1.png)](https://postimg.cc/QHDkFM4m)[![untitled-2.png](https://i.postimg.cc/g23gmCS4/untitled-2.png)](https://postimg.cc/G4hFj51s)[![untitled-3.png](https://i.postimg.cc/Px5ybPtF/untitled-3.png)](https://postimg.cc/4Kjps4Hz)
+#### Tampilan Beranda
+[![untitled.png](https://i.postimg.cc/YS38m1wW/untitled.png)](https://postimg.cc/JysjfH0r) <br>
+#### Tampilan Pendeteksian Wajah 
+[![untitled-1.png](https://i.postimg.cc/xTJsFJLw/untitled-1.png)](https://postimg.cc/QHDkFM4m) <br>
+[![untitled-3.png](https://i.postimg.cc/Px5ybPtF/untitled-3.png)](https://postimg.cc/4Kjps4Hz) <br>
+#### Tampilan Test dan Quiz 
+[![untitled-2.png](https://i.postimg.cc/g23gmCS4/untitled-2.png)](https://postimg.cc/G4hFj51s) <br>
+
 
 ### g.Gantt-Chart pengerjaan proyek dalam kurun waktu 1 semester
 [![timeline.jpg](https://i.postimg.cc/dtSrftm6/timeline.jpg)](https://postimg.cc/crwvgWzt)
