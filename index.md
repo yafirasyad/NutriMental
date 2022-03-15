@@ -1,3 +1,34 @@
+
+### Metodologi
+#### Waterfall <br>
+Pemilihan metode waterfall pada produk kami karena metode ini memiliki alur yang jelas, membuat pengerjaan proyek akan semakin mendetail. Dengan begitu, kesalahan bisa dikurangi. Semakin terperinci tugas yang akan dikerjakan, maka semakin kecil juga potensi kesalahan yang akan dilakukan.
+
+### a.Tujuan dari produk
+Membantu mahasiswa/siswa/client untuk mendapatkan pencegahan serta solusi kesehatan mental yang dialaminya
+
+### b.Pengguna potensial dari produk dan kebutuhan para pengguna tersebut
+Mahasiswa:<br>
+- Bantuan psikologis instan terhadap permasalahan yang dialami.
+- Sumber bacaan terkait dengan permasalahan psikologis.
+- Sarana hiburan 
+
+### c.Use case diagram
+[![usecase.jpg](https://i.postimg.cc/DzZR1p8n/usecase.jpg)](https://postimg.cc/4YD8g56S)
+
+### d.Functional requirements untuk use case yang telah dirancang
+[![function.jpg](https://i.postimg.cc/fRZNSvcR/function.jpg)](https://postimg.cc/6yHSDnbk)
+
+### e.Entity relationship diagram
+[![Proyek-Senior-ERD.jpg](https://i.postimg.cc/3wdbkycw/Proyek-Senior-ERD.jpg)](https://postimg.cc/R3xT809r)
+
+### f.Low-fidelity Wireframe
+[![untitled.png](https://i.postimg.cc/YS38m1wW/untitled.png)](https://postimg.cc/JysjfH0r)[![untitled-1.png](https://i.postimg.cc/xTJsFJLw/untitled-1.png)](https://postimg.cc/QHDkFM4m)[![untitled-2.png](https://i.postimg.cc/g23gmCS4/untitled-2.png)](https://postimg.cc/G4hFj51s)[![untitled-3.png](https://i.postimg.cc/Px5ybPtF/untitled-3.png)](https://postimg.cc/4Kjps4Hz)
+
+### g.Gantt-Chart pengerjaan proyek dalam kurun waktu 1 semester
+[![timeline.jpg](https://i.postimg.cc/dtSrftm6/timeline.jpg)](https://postimg.cc/crwvgWzt)
+
+---------------------------------------------
+
 ## IceTapeKetan <br>
 
 
