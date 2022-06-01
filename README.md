@@ -1,7 +1,7 @@
 # NutriMental
 Aplikasi kesehatan mental berbasis face recognition.
 
-## Website URL : nutri-mental.netlify.com
+## Website URL : https://nutri-mental.netlify.com
 
 ## Frontend Repository: https://github.com/grinaldyafi/NutriMental
 ## Backend Repository : 
