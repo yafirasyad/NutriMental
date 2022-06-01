@@ -4,7 +4,7 @@ Aplikasi kesehatan mental berbasis face recognition.
 ## Website URL : https://nutri-mental.netlify.app
 
 ## Frontend Repository: https://github.com/grinaldyafi/NutriMental
-## Backend Repository : 
+## Backend Repository : https://github.com/ave-shina/nutrimental-be
 
 Ketua Kelompok: Grinaldy Yafi' Rasyad - 19/446780/TK/49885
 <br>
